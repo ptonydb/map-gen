@@ -12,7 +12,9 @@ The program infers facts and state of the world given constraints. Thus it makes
 
 ## Example
 * Constraints
+
 ![smallconstraints](https://i.imgur.com/1Emp3rg.png?raw=true)
 
 * One Possible Output
+
 ![outputie](https://i.imgur.com/VKFVkmO.png?raw=true)
