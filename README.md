@@ -10,9 +10,3 @@ The program infers facts and state of the world given constraints. Thus it makes
 * For example, a house will have rules where no two doors should be constructed and placed right next to one another. 
 * This program is using Answer Set programming which is a declarative programming paradigm in contrast to the more widely used imperative programming paradigm. Whereas the latter is clearly coded and defined to tell the program what to do, in declarative programming the computer generates a desired result given a prescribed solution or constraints - similar to how SQL works..
 
-
-## Layer Information
-![cnnmodel](https://i.imgur.com/SVk1Lj3.png?raw=true)
-
-## Training and Validation History
-![datahistory](https://i.imgur.com/yXg84Yp.png?raw=true)
